@@ -4,6 +4,7 @@
 /* Apply Lato font to the body */
 body {
   font-family: 'Lato', sans-serif;
+  background-color: pink;
 }
 
 /* Set colors */
